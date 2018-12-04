@@ -17,8 +17,8 @@ title: Blog
 description: "Loreno Heer's personal blog"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://loreno-heer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#github_repo: jekyll # the GitHub repo name for your project
-#github_username: jekyll
+github_repo: blog # the GitHub repo name for your project
+github_username: loreno-heer
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
