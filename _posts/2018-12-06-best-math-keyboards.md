@@ -69,7 +69,7 @@ This outputs some nice statistic and tells me that the most frequently used lett
 |q|233|
 |=|227|
 |^|188|
-|_|186|
+|\_|186|
 |+|186|
 |u|184|
 |w|158|
@@ -88,7 +88,7 @@ This outputs some nice statistic and tells me that the most frequently used lett
 |D|50|
 |F|47|
 |C|44|
-|*|40|
+|\*|40|
 |X|37|
 |T|37|
 |P|36|
