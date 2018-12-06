@@ -1,7 +1,7 @@
 // Styling markdown output
 
 // Code formatting
-/*
+
 pre {
     border-left: $spacer-1 solid $color-border;
     margin: $spacer-3 0;
@@ -15,10 +15,10 @@ code {
     font-size: $body-font-size;
     padding: 1px 0px;
 }
-*/
+
 
 // better code formating
-@import url("https://raw.githubusercontent.com/richleland/pygments-css/master/emacs.css");
+@import "emacs.css";
 
 .prose {
 
