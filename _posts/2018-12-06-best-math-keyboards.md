@@ -32,7 +32,7 @@ This outputs some nice statistic and tells me that the most frequently used lett
 |Letter|Frequency|
 |------|---------|
 |space |6983|
-|\|2551|
+|\\|2551|
 |a|1970|
 |e|1444|
 |}|1308|
