@@ -1,5 +1,5 @@
 // Styling markdown output
-@import https://raw.githubusercontent.com/richleland/pygments-css/master/emacs.css
+@import 'https://raw.githubusercontent.com/richleland/pygments-css/master/emacs.css';
 // Code formatting
 pre {
     border-left: $spacer-1 solid $color-border;
