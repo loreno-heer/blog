@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The best keyboard and key layout for mathematicians"
+title:  "Keyboards"
 date:   2018-12-06
 ---
 
