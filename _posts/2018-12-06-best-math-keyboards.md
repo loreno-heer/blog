@@ -54,7 +54,7 @@ This outputs some nice statistic and tells me that the most frequently used lett
 | f       | 584    | \[     | 112    | I      | 22     |          |        |
 | 2       | 567    | /      | 103    | 3      | 21     |          |        |
 | x       | 539    | %      | 103    | >      | 19     |          |        |
-| h       | 494    | \&     | 90     | !      | 18     |          |        |
+| h       | 494    | &     | 90     | !      | 18     |          |        |
 
 
 
