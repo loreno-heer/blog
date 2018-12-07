@@ -106,11 +106,12 @@ pre {
     border-collapse: collapse;
     display: block;
     width: 100%;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.0em;
     overflow: auto;
     // For Firefox to horizontally scroll wider tables.
     word-break: normal;
     word-break: keep-all;
+    //border: 1px solid $color-body-text;
 
     th {
       font-weight: bold;
@@ -119,9 +120,10 @@ pre {
 
     th,
     td {
-      padding: $spacer-2 $spacer-3 $spacer-2 2px;
+      //padding: $spacer-2 $spacer-3 $spacer-2 2px;
       border-top: 1px solid $color-body-text;
       border-bottom: 1px solid $color-body-text;
+      border: 1px solid $color-body-text;
     }
 
     tr {
