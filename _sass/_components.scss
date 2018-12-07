@@ -1,21 +1,15 @@
 // Styling markdown output
 
 // Code formatting
-/*
+
 pre {
-    border-left: $spacer-1 solid $color-border;
+    border-left: 1px solid $color-border;
     margin: $spacer-3 0;
     padding-left: 16px;
     width: (9 / 12 * 100%); // matches col-9
     overflow-x: auto;
 }
 
-code {
-    color: $color-code;
-    font-size: $body-font-size;
-    padding: 1px 0px;
-}
-*/
 
 // better code formating
 //@import "emacs";
